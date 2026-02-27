@@ -242,7 +242,7 @@ This project is licensed under the **MIT License** and is intended for **educati
 
 ## 👨‍💻 Author
 
-**Vision KC**
+**Vision KC**<br>
 [Portfolio](https://visionkc.com.np)<br>
 [Github](https://github.com/vision-dev1)
 
