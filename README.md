@@ -120,7 +120,7 @@ python backend/train_url_model.py
 python backend/app.py
 ```
 
-Open your browser at **[http://localhost:5000](http://localhost:5000)** 🎉
+Open your browser at **[http://localhost:5000](http://localhost:5000)** 
 
 ---
 
