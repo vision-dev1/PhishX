@@ -236,7 +236,7 @@ Please open an issue first to discuss major changes.
 
 ## 📄 License
 
-This project is licensed under the **MIT License** and is intended for **educational and research purposes only**.
+This project is licensed under the **MIT License**.See the [LICENSE](LICENSE) file for deatils.
 
 ---
 
