@@ -243,8 +243,7 @@ This project is licensed under the **MIT License** and is intended for **educati
 ## 👨‍💻 Author
 
 **Vision KC**
-
-[Portfolio](https://visionkc.com.np) ·
+[Portfolio](https://visionkc.com.np)<br>
 [Github](https://github.com/vision-dev1)
 
 > *Built as a cybersecurity portfolio project demonstrating full-stack development, machine learning, and security awareness.*
