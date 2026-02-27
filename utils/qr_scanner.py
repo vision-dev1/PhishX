@@ -1,4 +1,4 @@
-# codes by vision
+# Codes by Visionnn
 import cv2
 import numpy as np
 from pyzbar.pyzbar import decode
