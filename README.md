@@ -84,7 +84,7 @@ PhishX/
 ### Step 1 — Clone & Enter the Project
 
 ```bash
-git clone https://github.com/yourusername/PhishX.git
+git clone https://github.com/visionxstack/PhishX.git
 cd PhishX
 ```
 
@@ -245,7 +245,7 @@ This project is licensed under the **MIT License**.See the [LICENSE](LICENSE) fi
 
 **Vision KC**<br>
 [Portfolio](https://visionkc.com.np)<br>
-[Github](https://github.com/vision-dev1)
+[Github](https://github.com/visionxstack)
 
 > *Built as a cybersecurity portfolio project demonstrating full-stack development, machine learning, and security awareness.*
 
