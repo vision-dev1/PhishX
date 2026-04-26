@@ -1,1 +1,30 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #137fec;
+  --color-background-light: #ffffff;
+  --color-surface-light: #f9fafb;
+  
+  --font-display: "Inter", "sans-serif";
+  
+  --radius-default: 0.375rem;
+  --radius-lg: 0.5rem;
+  --radius-xl: 1rem;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+  
+  body {
+    @apply transition-colors duration-300;
+  }
+}
+
+@layer components {
+  .detection-card {
+    @apply transition-all duration-300 hover:scale-[1.02];
+  }
+}
 
